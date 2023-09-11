@@ -1,0 +1,7 @@
+{
+  "name": "FileReaderSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
